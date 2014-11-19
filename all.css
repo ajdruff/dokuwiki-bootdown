@@ -1,0 +1,111 @@
+/*
+* BootDown Extra Syntax Highlighting Styles
+* To switch Highlighter, comment out the one you don't want, and uncomment the one you do
+* To 
+*/
+
+
+ /**************************Prism Themes ******************************************/
+ // @import url( 'prism/styles/coy.css');//prism theme. comment out if you are using the highlightjs highlighter
+
+
+/*
+
+### Available Themes (Prism)
+* coy.css
+* dark.css
+* default.css
+* funky.css
+* okaidia.css
+* twilight.css
+
+### Our favorites ###
+* coy.css
+* default.css
+
+
+### Demo (Prism)
+You can demo all the styles here: http://prismjs.com/index.html
+
+*/
+
+/*************************Highlightjs Themes*****************************************/
+@import url( 'highlightjs/styles/obsidian.css');//highlightjs theme. comment out if you are using the Prism highlighter
+
+/*
+
+### Demo (Highlightjs)
+You can demo all the styles here: https://highlightjs.org/static/test.html
+		 
+### Our favorites ###
+solarized_light.css
+obsidian.css
+monokai.css
+atelier-forest.light.css		 
+atelier-lakeside.light.css
+paraiso.light.css
+kimbie.light.css
+brown_paper.css
+
+
+
+### Available Themes (Highlightjs)
+arta.css
+ascetic.css
+atelier-dune.dark.css
+atelier-dune.light.css
+atelier-forest.dark.css
+atelier-forest.light.css
+atelier-heath.dark.css
+atelier-heath.light.css
+atelier-lakeside.dark.css
+atelier-lakeside.light.css
+atelier-seaside.dark.css
+atelier-seaside.light.css
+brown_paper.css
+codepen-embed.css
+color-brewer.css
+dark.css
+default.css
+docco.css
+far.css
+foundation.css
+github.css
+googlecode.css
+hybrid.css
+idea.css
+ir_black.css
+kimbie.dark.css
+kimbie.light.css
+magula.css
+mono-blue.css
+monokai.css
+monokai_sublime.css
+obsidian.css
+paraiso.dark.css
+paraiso.light.css
+pojoaque.css
+railscasts.css
+rainbow.css
+school_book.css
+solarized_dark.css
+solarized_light.css
+sunburst.css
+tomorrow-night-blue.css
+tomorrow-night-bright.css
+tomorrow-night-eighties.css
+tomorrow-night.css
+tomorrow.css
+vs.css
+xcode.css
+zenburn.css
+
+*/
+
+/*
+*
+* Bootstrap
+*
+*/
+
+@import url( 'bootstrap/2.3.0/themes/basic/bootstrap.css');//highlightjs theme. comment out if you are using the Prism highlighter

@@ -1,0 +1,7 @@
+base   bootdownextra
+author Andrew Druffner
+email  andrew@nomstock.com
+date   2014-11-30
+name   Bootdown Extra plugin
+desc   Parses Twitter Bootstrap and Bootdown Extra
+url    http://www.dokuwiki.org/plugin:bootdownextra
